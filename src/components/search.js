@@ -7,7 +7,7 @@ const Search = ({ onChange }) => (
         type="text"
         onChange={onChange}
         className="form-control"
-        placeholder="Enter pokemon name..."
+        placeholder="Enter pokemon name please..."
       />
     </form>
   </div>
